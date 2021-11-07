@@ -1,0 +1,5 @@
+n = input("What did she say? ")
+n = n.replace('###', 'o')
+n = n.replace('%%', 'a')
+n = n.replace('##', 'e')
+print("She meant to say: " + n)
