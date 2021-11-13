@@ -4,7 +4,9 @@ Hello student in desparation, do not worry about your Grok homework anymore, as 
 
 Just make sure to read and make sure you agree to the license.
 
-(This is a WIP and I don't have all the answers in yet, so far I have up to M6A4 as of 11/9)
+(This is not a WIP and I have all the answers in, meaning M1A1-M8A4 as of 11/12/21)
+
+IF ANY OF THE CODE DOESNT WORK PLEASE LET ME KNOW AND/OR SUBMIT PULL REQUEST
 
 
 ANYBODY ADDING CODE PLEASE READ BELOW:
