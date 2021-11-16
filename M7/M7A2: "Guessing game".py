@@ -1,8 +1,8 @@
-n = "electricity"
+x = "electricity"
 print("What is my favourite food?")
-us = input("Guess? ")
-while us != n:
+guess = input("Guess? ")
+while guess != x:
     print("Not even close.")
-    us = input("Guess? ")
-if us == n:
+    guess = input("Guess? ")
+if guess == x:
   print("You guessed it! Buzzzz")
